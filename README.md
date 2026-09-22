@@ -13,12 +13,21 @@ A comprehensive and intuitive Task Manager application built with Flutter. This 
 
 ## 📸 Screenshots
 
-Here is a glimpse of the application:
+<div align="center">
 
-<p align="center">
-  <img src="screenshorts/1.jpeg" alt="Screenshot 1" width="300" style="margin-right: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <img src="screenshorts/2.jpeg" alt="Screenshot 2" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</p>
+### Authentication & Splash
+| Splash Screen | Login Page | Sign Up Page |
+| :---: | :---: | :---: |
+| <img src="screenshorts/splash_screen.jpeg" width="220" alt="Splash Screen" /> | <img src="screenshorts/login_page.jpg" width="220" alt="Login Page" /> | <img src="screenshorts/sign_up_page.jpg" width="220" alt="Sign Up Page" /> |
+
+<br />
+
+### Dashboard & User Profile
+| Home Page | Profile Page |
+| :---: | :---: |
+| <img src="screenshorts/home_page.jpg" width="220" alt="Home Page" /> | <img src="screenshorts/profile_page.jpg" width="220" alt="Profile Page" /> |
+
+</div>
 
 ## 🛠️ Technology Stack
 
