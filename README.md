@@ -194,8 +194,5 @@ Contributions are welcomed! If you would like to contribute:
 
 Distributed under the MIT License. See `LICENSE` for details.
 
-<p align="center">
-  Crafted with ❤️ by <a href="https://github.com/atikur01">atikur01</a>
-</p>
 
 
